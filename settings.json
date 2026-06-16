@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WServXD.aternos.me",
+    "ip": "velvetfish.aternos.host",
     "port": 29386,
     "version": "",
     "try-creative": false
